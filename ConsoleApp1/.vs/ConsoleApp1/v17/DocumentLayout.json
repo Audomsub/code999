@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\class\\workshop1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\workshop1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\class\\encapstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\encapstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\class\\abstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\abstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\class\\polystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\polystudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\source\\repos\\s01\\consoleapp1\\consoleapp1\\class\\inherlitstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE653B90-2CD0-48D6-B26B-6E34170A6ABD}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\inherlitstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inherlitStudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\inherlitStudent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\inherlitStudent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\inherlitStudent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\inherlitStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:56:43.236Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encapstudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\Encapstudent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Encapstudent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\Encapstudent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Encapstudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:33:02.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T03:27:47.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "workshop1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\workshop1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\workshop1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\workshop1.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\workshop1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:35:02.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abstudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\Abstudent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\Abstudent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\Abstudent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\Abstudent.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:53:29.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "polystudent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\polystudent.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Class\\polystudent.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\s01\\ConsoleApp1\\ConsoleApp1\\Class\\polystudent.cs",
+              "RelativeToolTip": "ConsoleApp1\\Class\\polystudent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:36:53.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
